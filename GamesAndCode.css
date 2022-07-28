@@ -1,0 +1,69 @@
+
+body {
+    color: black;
+    font-family: Tahoma;
+}
+
+.title_t {
+ color: red;
+ font-family: Impact;
+ font-family: Tahoma;
+ font-size: 25px;
+ text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 40px;
+    font-family:Arial;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .Bouton_discord {
+    background-color: darkblue;
+    font-size: 16px;
+  }
+
+
+
+  div.cloud_gaming th , td {
+    margin-left: 20px;
+    color: white;
+    background-color: black;
+    border-spacing: 30px;
+    /*border-collapse: collapse; */
+    border-radius: 30px;
+    border: 3px solid ;
+    border-color:dimgrey;
+    padding: 2px 5px 5px 10px;
+  }
+
+  div.img_marque img{
+    max-width: 200px;
+    max-height: 100px;
+    padding-bottom: 25px;
+    border-spacing: 10px;
+  }
+
+
+
+/* left = gauche  right = droite
